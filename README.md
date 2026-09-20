@@ -3,13 +3,16 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
+
 <p align="center"><sub> · its-silver-lynx</sub></p>
-<h1>Priyanshu Patel</h1>
-<h2>Java Web Developer</h2>
+  
+<h1>Hi there! I'm Priyanshu </h1>
+<p><strong>Aspiring Java Web Developer</strong></p>
 <p>Curious by nature and always interested in understanding the <strong>“why” behind the “how,”</strong> I enjoy figuring out how things work rather than simply making them work. I'm currently focused on becoming a strong <strong>Java Web Developer</strong>, deepening my understanding of Java, backend development, and web technologies while building practical projects along the way. I believe the best way to learn is to build, break things, understand what went wrong, and keep improving.</p>
 
-<!--
+
 <p align="center">
+<!--
   <a href="mailto:patelpriyanshu254@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" width="32" alt="Email">
   </a>
@@ -35,13 +38,13 @@
   </a>
 </p>
 </td>
+-->
 <td width="36%" valign="middle" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M2ViOWxmaW5pZG5xZjkyOGo0bWw0M2prcDFyN2ZvbDI3cG1qdWhjOCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/l3vQZtWkTFOoHeIcE/giphy.gif" width="240px" alt="Animated developer GIF" />
 </td>
 </tr>
 </table>
 </div>
--->
 
 
 
