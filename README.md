@@ -41,48 +41,38 @@
 </table>
 </div>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=its-silver-lynx&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328653146%3Fu%3Def85c595f1610979c96f7f016cf5cde2742a9ab7%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=its-silver-lynx&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328653146%3Fu%3Def85c595f1610979c96f7f016cf5cde2742a9ab7%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Priyanshu Patel GitHub proof metrics" />
-</picture>
-</p>
 
-<h2>What I've Been Building</h2>
 
-<table width="100%">
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+
+<table>
 <tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=its-silver-lynx&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328653146%3Fu%3Def85c595f1610979c96f7f016cf5cde2742a9ab7%26v%3D4&repos=its-silver-lynx%2FBasic_Java_Programs%2Cits-silver-lynx%2FEarly-java-web-projects%2Cits-silver-lynx%2FMVC_Project_2%2Cits-silver-lynx%2FFirst_MVC_Project&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=its-silver-lynx&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328653146%3Fu%3Def85c595f1610979c96f7f016cf5cde2742a9ab7%26v%3D4&repos=its-silver-lynx%2FBasic_Java_Programs%2Cits-silver-lynx%2FEarly-java-web-projects%2Cits-silver-lynx%2FMVC_Project_2%2Cits-silver-lynx%2FFirst_MVC_Project&v=recruiter-projects-1&mode=dark" width="100%" alt="Priyanshu Patel selected projects" />
-</picture>
+<td align="center" width="50%">
+
+<h3>GitHub Stats</h3>
+
+<img src="https://github-readme-stats.shion.dev/api?username=its-silver-lynx&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats">
+
 </td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/its-silver-lynx/Basic_Java_Programs">Basic_Java_Programs</a></h3>
-<p>Foundational Java programming modules covering core syntax, control flow logic, procedural algorithms, and single/multidimensional array structures.</p>
-<p><sub>Java · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/its-silver-lynx/Basic_Java_Programs">Read the repository →</a></p>
+
+<td align="center" width="50%">
+
+<h3>💻 Most Used Languages</h3>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=its-silver-lynx&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Most Used Languages">
+
 </td>
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/its-silver-lynx/Early-java-web-projects">Early-java-web-projects</a></h3><p>A centralized development repository showcasing application builds, web replicas, and engineering prototypes completed during my training at DCL.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/its-silver-lynx/MVC_Project_2">MVC_Project_2</a></h3><p>MVC-based project components and architectural frameworks developed.</p><p><sub>Java · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/its-silver-lynx/First_MVC_Project">First_MVC_Project</a></h3><p>Java web applications implementing the Model-View-Controller (MVC) design pattern to ensure clean separation of data, business logic, and UI component</p><p><sub>Java · ⭐ 0</sub></p></td>
-</tr>
-</table>
+<h3>GitHub Streak</h3>
 
-<h2>Technical toolkit</h2>
+<img src="https://streak-stats.demolab.com/?user=its-silver-lynx&theme=nightowl&hide_border=false" height="180" alt="GitHub Streak">
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=its-silver-lynx&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328653146%3Fu%3Def85c595f1610979c96f7f016cf5cde2742a9ab7%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=its-silver-lynx&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328653146%3Fu%3Def85c595f1610979c96f7f016cf5cde2742a9ab7%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Priyanshu Patel technology stack" />
-</picture>
-</p>
+</div>
+
 
 <h2>Consistency signal</h2>
 
