@@ -8,6 +8,7 @@
 <h2>Java Web Developer</h2>
 <p>Curious by nature and always interested in understanding the <strong>“why” behind the “how,”</strong> I enjoy figuring out how things work rather than simply making them work. I'm currently focused on becoming a strong <strong>Java Web Developer</strong>, deepening my understanding of Java, backend development, and web technologies while building practical projects along the way. I believe the best way to learn is to build, break things, understand what went wrong, and keep improving.</p>
 
+<!--
 <p align="center">
   <a href="mailto:patelpriyanshu254@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" width="32" alt="Email">
@@ -40,6 +41,7 @@
 </tr>
 </table>
 </div>
+-->
 
 
 
