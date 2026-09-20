@@ -79,6 +79,32 @@
 </div>
 
 
+<h3 align="left">🛠️ Languages & Tools</h3>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" style="padding: 25px 25px;">
+
+<img alt="HTML5" width="32px" src="https://cdn.simpleicons.org/html5" />
+&nbsp;&nbsp;
+<img alt="CSS3" width="32px" src="https://cdn.simpleicons.org/css" />
+&nbsp;&nbsp;
+<img alt="JavaScript" width="32px" src="https://cdn.simpleicons.org/javascript" />
+&nbsp;&nbsp;
+<img alt="Git" width="32px" src="https://cdn.simpleicons.org/git" />
+&nbsp;&nbsp;
+<img alt="GitHub" width="32px" src="https://cdn.simpleicons.org/github" />
+&nbsp;&nbsp;
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 <h2>Consistency signal</h2>
 
 <p align="center">
@@ -96,6 +122,9 @@
 <td width="62%" valign="middle">
   <h2>Always Learning, Always Building</h2>
   <p>Currently focused on Java, backend development, and building projects that turn what I learn into something practical.</p>
+  <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=its-silver-lynx&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views" />
+  </p>
 </td>
 <td width="38%" valign="middle" align="right">
 <p align="center">Get in Touch</p>
