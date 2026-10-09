@@ -88,15 +88,15 @@
 <tr>
 <td align="center" style="padding: 25px 25px;">
 
-<img alt="HTML5" width="32px" src="https://cdn.simpleicons.org/html5" />
+<img alt="HTML5" width="30px" src="https://cdn.simpleicons.org/html5" />
 &nbsp;&nbsp;
-<img alt="CSS3" width="32px" src="https://cdn.simpleicons.org/css" />
+<img alt="CSS3" width="30px" src="https://cdn.simpleicons.org/css" />
 &nbsp;&nbsp;
-<img alt="JavaScript" width="32px" src="https://cdn.simpleicons.org/javascript" />
+<img alt="JavaScript" width="30px" src="https://cdn.simpleicons.org/javascript" />
 &nbsp;&nbsp;
-<img alt="Git" width="32px" src="https://cdn.simpleicons.org/git" />
+<img alt="Git" width="30px" src="https://cdn.simpleicons.org/git" />
 &nbsp;&nbsp;
-<img alt="GitHub" width="32px" src="https://cdn.simpleicons.org/github" />
+<img alt="GitHub" width="30px" src="https://cdn.simpleicons.org/github" />
 &nbsp;&nbsp;
 
 </td>
